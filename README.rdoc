@@ -1,5 +1,7 @@
 == README
 
+Check out the app on Heroku[http://gentle-fjord-9884.herokuapp.com/]
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
